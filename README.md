@@ -52,6 +52,7 @@ Polynomial Regression: Employ polynomial regression to capture nonlinear relatio
 # References
 
 [1] https://www.eia.gov/state/analysis.php?sid=CA
+
 [2] https://nsrdb.nrel.gov/data-viewer
 
 https://www.ncei.noaa.gov/thredds/catalog/avhrr-patmos-x-cloudprops-noaa-des-fc/catalog.html?dataset=avhrr-patmos-x-cloudprops-noaa-des-fc/PATMOS-X_Cloud_Properties:_Aggregation,_NOAA_descending_best.ncd
