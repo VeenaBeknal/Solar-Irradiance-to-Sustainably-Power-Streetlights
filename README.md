@@ -75,7 +75,11 @@ Experiment with sophisticated techniques for feature engineering to ensure that 
 
 `Data Collection and Merging.ipynb`: Python file containing the data collect and merging for solar data for specific zip codes of San Jose city
 
+`Data Collection and Merging.py`: Python file containing the data collect and merging for solar data for specific zip codes of San Jose city
+
 `SolarIrradiance_EDA_Modeling_Final_Results.ipynb`: Python file containing the EDA, Feature Engineering and Modeling for solar data on San Jose city zip code
+
+`SolarIrradiance_EDA_Modeling_Final_Results.py`: : Python file containing the EDA, Feature Engineering and Modeling for solar data on San Jose city zip code
 
 `Github Copilot - Screenshots.pdf`: File containg the screenshots of the pair programming
 
